@@ -1,0 +1,20 @@
+body {
+    color: #ffffff;
+    background-image: line-gradient(top, #00000, #ffffff, #00000);
+    text-align: center;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;   
+    padding: 20px;
+    border-bottom: 1px solid #808080;
+}
+
+nav2 {
+    padding: 30px;
+    display: flex ;
+    justify-content: left;
+    background-color: #000000;
+    border-radius: 10px;
+}
